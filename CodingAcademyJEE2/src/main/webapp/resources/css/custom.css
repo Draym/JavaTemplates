@@ -1,0 +1,25 @@
+.title {
+    color: #6d82ff;
+    font-size: 35px;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 60px;
+}
+
+.titleLink {
+    color: #ffa637;
+    font-size: larger;
+}
+
+.form-group {
+    padding-bottom: 5px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
